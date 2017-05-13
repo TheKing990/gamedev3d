@@ -1,14 +1,14 @@
 # The Witch
 
-Here is the final version of our game. 
+Here is the final version of our game.
 
 By
 
 Progammers:
-Jhovany Gonzalez
-Jerickson Domingo
-Guillermo Gamaez
+Jhovany Gonzalez,
+Jerickson Domingo,
+Guillermo Gamaez,
 
-Artist: 
-Erick Valencia
+Artist:
+Erick Valencia, 
 Stephanie Ramirez
