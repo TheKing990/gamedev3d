@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: bfd133079d8b6f8409faa6a9b592e3aa
+timeCreated: 1493321915
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_lower.L
+    100002: arm_lower.R
+    100004: arm_upper.L
+    100006: arm_upper.R
+    100008: Armature
+    100010: boots
+    100012: breast.L
+    100014: breast.R
+    100016: clavicle.L
+    100018: clavicle.R
+    100020: coat
+    100022: DualWeapon.L
+    100024: dualWeapon.R
+    100026: glute.L
+    100028: glute.R
+    100030: hammer
+    100032: hammer_final_lowPoly
+    100034: hand.L
+    100036: hand.R
+    100038: handCtrl.L
+    100040: handCtrl.R
+    100042: hat
+    100044: head
+    100046: head 1
+    100048: hipCtrl
+    100050: hips and upper legs
+    100052: index_01.L
+    100054: index_01.R
+    100056: index_02.L
+    100058: index_02.R
+    100060: index_03.L
+    100062: index_03.R
+    100064: jaw
+    100066: leg_lower.L
+    100068: leg_lower.R
+    100070: leg_upper.L
+    100072: leg_upper.R
+    100074: middle_01.L
+    100076: middle_01.R
+    100078: middle_02.L
+    100080: middle_02.R
+    100082: middle_03.L
+    100084: middle_03.R
+    100086: neck01
+    100088: neck02
+    100090: neck03
+    100092: pelvis
+    100094: pelvis.L
+    100096: pelvis.M
+    100098: pelvis.R
+    100100: pinky_01.L
+    100102: pinky_01.R
+    100104: pinky_02.L
+    100106: pinky_02.R
+    100108: pinky_03.L
+    100110: pinky_03.R
+    100112: ring_01.L
+    100114: ring_01.R
+    100116: ring_02.L
+    100118: ring_02.R
+    100120: ring_03.L
+    100122: ring_03.R
+    100124: spine01
+    100126: spine02
+    100128: spine03
+    100130: sword.L
+    100132: sword.R
+    100134: tarsal.L
+    100136: tarsal.R
+    100138: thumb_01.L
+    100140: thumb_01.R
+    100142: thumb_02.L
+    100144: thumb_02.R
+    100146: thumb_03.L
+    100148: thumb_03.R
+    100150: toe.L
+    100152: toe.R
+    100154: //RootNode
+    400000: arm_lower.L
+    400002: arm_lower.R
+    400004: arm_upper.L
+    400006: arm_upper.R
+    400008: Armature
+    400010: boots
+    400012: breast.L
+    400014: breast.R
+    400016: clavicle.L
+    400018: clavicle.R
+    400020: coat
+    400022: DualWeapon.L
+    400024: dualWeapon.R
+    400026: glute.L
+    400028: glute.R
+    400030: hammer
+    400032: hammer_final_lowPoly
+    400034: hand.L
+    400036: hand.R
+    400038: handCtrl.L
+    400040: handCtrl.R
+    400042: hat
+    400044: head
+    400046: head 1
+    400048: hipCtrl
+    400050: hips and upper legs
+    400052: index_01.L
+    400054: index_01.R
+    400056: index_02.L
+    400058: index_02.R
+    400060: index_03.L
+    400062: index_03.R
+    400064: jaw
+    400066: leg_lower.L
+    400068: leg_lower.R
+    400070: leg_upper.L
+    400072: leg_upper.R
+    400074: middle_01.L
+    400076: middle_01.R
+    400078: middle_02.L
+    400080: middle_02.R
+    400082: middle_03.L
+    400084: middle_03.R
+    400086: neck01
+    400088: neck02
+    400090: neck03
+    400092: pelvis
+    400094: pelvis.L
+    400096: pelvis.M
+    400098: pelvis.R
+    400100: pinky_01.L
+    400102: pinky_01.R
+    400104: pinky_02.L
+    400106: pinky_02.R
+    400108: pinky_03.L
+    400110: pinky_03.R
+    400112: ring_01.L
+    400114: ring_01.R
+    400116: ring_02.L
+    400118: ring_02.R
+    400120: ring_03.L
+    400122: ring_03.R
+    400124: spine01
+    400126: spine02
+    400128: spine03
+    400130: sword.L
+    400132: sword.R
+    400134: tarsal.L
+    400136: tarsal.R
+    400138: thumb_01.L
+    400140: thumb_01.R
+    400142: thumb_02.L
+    400144: thumb_02.R
+    400146: thumb_03.L
+    400148: thumb_03.R
+    400150: toe.L
+    400152: toe.R
+    400154: //RootNode
+    2300000: sword.L
+    2300002: sword.R
+    3300000: sword.L
+    3300002: sword.R
+    4300000: sword.L
+    4300002: sword.R
+    4300004: hammer_final_lowPoly
+    4300006: hat
+    4300008: coat
+    4300010: hips and upper legs
+    4300012: boots
+    4300014: head
+    7400000: hammer_attack02
+    7400002: hammer_attack03
+    7400004: hammer_attack01
+    7400006: hammer_walk
+    7400008: hammer_idle-attack transition
+    7400010: hammer_attack to idle transition
+    7400012: dualSwords_walk
+    7400014: dualSwords_idle
+    7400016: dualSwords_idle to attack transition
+    7400018: dualSwords_attack to idle transition
+    7400020: dualSwords_attack01
+    7400022: dualSwords_attack02
+    7400024: dualSwords_attack03
+    7400026: hammer_idle
+    7400028: dualSwords_attackString
+    9500000: //RootNode
+    13700000: boots
+    13700002: coat
+    13700004: hammer_final_lowPoly
+    13700006: hat
+    13700008: head
+    13700010: hips and upper legs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hammer_attack02
+      takeName: hammer_attack02
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_attack03
+      takeName: hammer_attack03
+      firstFrame: 0
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_attack01
+      takeName: hammer_attack01
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_walk
+      takeName: hammer_walk
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_idle-attack transition
+      takeName: hammer_idle-attack transition
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_attack to idle transition
+      takeName: hammer_attack to idle transition
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_walk
+      takeName: dualSwords_walk
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_idle
+      takeName: dualSwords_idle
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_idle to attack transition
+      takeName: dualSwords_idle to attack transition
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_attack to idle transition
+      takeName: dualSwords_attack to idle transition
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_attack01
+      takeName: dualSwords_attack01
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_attack02
+      takeName: dualSwords_attack02
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_attack03
+      takeName: dualSwords_attack03
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hammer_idle
+      takeName: hammer_idle
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dualSwords_attackString
+      takeName: dualSwords_attackString
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hammer
+        weight: 1
+      - path: Armature/hipCtrl
+        weight: 1
+      - path: Armature/hipCtrl/pelvis
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/glute.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/breast.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/index_01.L/index_02.L/index_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/middle_01.L/middle_02.L/middle_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/pinky_01.L/pinky_02.L/pinky_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/ring_01.L/ring_02.L/ring_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/hand.L/thumb_01.L/thumb_02.L/thumb_03.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.L/arm_upper.L/arm_lower.L/handCtrl.L/DualWeapon.L/sword.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/index_01.R/index_02.R/index_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/middle_01.R/middle_02.R/middle_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/pinky_01.R/pinky_02.R/pinky_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/ring_01.R/ring_02.R/ring_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/hand.R/thumb_01.R/thumb_02.R/thumb_03.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/clavicle.R/arm_upper.R/arm_lower.R/handCtrl.R/dualWeapon.R/sword.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1
+        weight: 1
+      - path: Armature/hipCtrl/pelvis/spine01/spine02/spine03/neck01/neck02/neck03/head
+          1/jaw
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.L/leg_upper.L/leg_lower.L/tarsal.L/toe.L
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.M
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R
+        weight: 1
+      - path: Armature/hipCtrl/pelvis.R/leg_upper.R/leg_lower.R/tarsal.R/toe.R
+        weight: 1
+      - path: boots
+        weight: 1
+      - path: coat
+        weight: 1
+      - path: hammer_final_lowPoly
+        weight: 1
+      - path: hat
+        weight: 1
+      - path: head
+        weight: 1
+      - path: hips and upper legs
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

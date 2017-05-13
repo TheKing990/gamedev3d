@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 74a0d679464adaa4cbd5b3f6745702a9
+timeCreated: 1492976941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dome
+    100004: dome pillar.000
+    100006: dome pillar.001
+    100008: dome pillar.002
+    100010: dome pillar.003
+    100012: dome pillar.005
+    100014: dome pillar.006
+    100016: dome pillar.007
+    100018: dome pillar.008
+    100020: dome pillar.009
+    100022: dome pillar.010
+    100024: dome pillar.011
+    100026: dome pillar.012
+    100028: dome pillar.013
+    100030: dome pillar.014
+    100032: dome walls
+    100034: dome walls.001
+    100036: dome walls.002
+    100038: dome walls.003
+    100040: dome walls.004
+    100042: dome walls.005
+    100044: dome walls.006
+    100046: dome walls.007
+    100048: dome walls.008
+    100050: dome walls.009
+    100052: dome walls.010
+    100054: dome walls.011
+    100056: dome walls.012
+    100058: dome walls.013
+    100060: dome walls.014
+    100062: dome_arches
+    100064: dome_columns
+    100066: dome_floor
+    100068: dome_vault
+    100070: dome_walls
+    100072: endtrance hall ceiling
+    100074: endtrance wall
+    100076: entranceHall_rightWall
+    100078: entranceHall_rightWall.001
+    100080: groinVault
+    100082: groinVault.001
+    100084: groinVault.002
+    100086: groinVault_smallWall_R.000
+    100088: groinVault_smallWall_R.001
+    100090: groinVault_smallWall_R.002
+    100092: groinVault_smallWall_R.003
+    100094: groinVault_smallWall_R.004
+    100096: groinVault_smallWall_R.005
+    100098: groinVault_smallWall_R.006
+    100100: groinVault_smallWall_R.007
+    100102: groinVault_smallWall_R.008
+    100104: groinVault_smallWall_R.009
+    100106: groinVault_smallWall_R.010
+    100108: groinVault_smallWall_R.011
+    100110: groinVault_smallWall_R.012
+    100112: groinVault_smallWall_R.013
+    100114: groinVault_smallWall_R.014
+    100116: groinVault_smallWall_R.015
+    100118: groinVault_smallWall_R.016
+    100120: groinVault_smallWall_R.017
+    100122: groinVault_windows_R
+    100124: groinVault_windows_R.001
+    100126: groinVault_windows_R.002
+    100128: groinVault_windows_R.003
+    100130: groinVault_windows_R.004
+    100132: groinVault_windows_R.005
+    100134: hallway
+    100136: hallway floor
+    100138: rose window
+    100140: square columns
+    100142: squareColumn
+    100144: squareColumn.001
+    100146: squareColumn.002
+    100148: squareColumn.003
+    100150: squareColumn.004
+    100152: squareColumn.005
+    100154: squareColumn.006
+    100156: squareColumn.007
+    100158: vault
+    100160: vault.001
+    100162: vault.002
+    100164: vault_pillar_large
+    100166: vault_pillar_large.001
+    100168: vault_pillar_large.002
+    100170: vault_pillar_large.003
+    100172: vault_pillar_large.004
+    100174: vault_pillar_large.005
+    100176: vault_pillar_large.006
+    100178: vault_pillar_large.007
+    100180: vault_small.000
+    100182: vault_small.001
+    100184: vault_small.002
+    100186: vault_small.003
+    100188: vault_small.004
+    100190: vault_small.005
+    400000: //RootNode
+    400002: dome
+    400004: dome pillar.000
+    400006: dome pillar.001
+    400008: dome pillar.002
+    400010: dome pillar.003
+    400012: dome pillar.005
+    400014: dome pillar.006
+    400016: dome pillar.007
+    400018: dome pillar.008
+    400020: dome pillar.009
+    400022: dome pillar.010
+    400024: dome pillar.011
+    400026: dome pillar.012
+    400028: dome pillar.013
+    400030: dome pillar.014
+    400032: dome walls
+    400034: dome walls.001
+    400036: dome walls.002
+    400038: dome walls.003
+    400040: dome walls.004
+    400042: dome walls.005
+    400044: dome walls.006
+    400046: dome walls.007
+    400048: dome walls.008
+    400050: dome walls.009
+    400052: dome walls.010
+    400054: dome walls.011
+    400056: dome walls.012
+    400058: dome walls.013
+    400060: dome walls.014
+    400062: dome_arches
+    400064: dome_columns
+    400066: dome_floor
+    400068: dome_vault
+    400070: dome_walls
+    400072: endtrance hall ceiling
+    400074: endtrance wall
+    400076: entranceHall_rightWall
+    400078: entranceHall_rightWall.001
+    400080: groinVault
+    400082: groinVault.001
+    400084: groinVault.002
+    400086: groinVault_smallWall_R.000
+    400088: groinVault_smallWall_R.001
+    400090: groinVault_smallWall_R.002
+    400092: groinVault_smallWall_R.003
+    400094: groinVault_smallWall_R.004
+    400096: groinVault_smallWall_R.005
+    400098: groinVault_smallWall_R.006
+    400100: groinVault_smallWall_R.007
+    400102: groinVault_smallWall_R.008
+    400104: groinVault_smallWall_R.009
+    400106: groinVault_smallWall_R.010
+    400108: groinVault_smallWall_R.011
+    400110: groinVault_smallWall_R.012
+    400112: groinVault_smallWall_R.013
+    400114: groinVault_smallWall_R.014
+    400116: groinVault_smallWall_R.015
+    400118: groinVault_smallWall_R.016
+    400120: groinVault_smallWall_R.017
+    400122: groinVault_windows_R
+    400124: groinVault_windows_R.001
+    400126: groinVault_windows_R.002
+    400128: groinVault_windows_R.003
+    400130: groinVault_windows_R.004
+    400132: groinVault_windows_R.005
+    400134: hallway
+    400136: hallway floor
+    400138: rose window
+    400140: square columns
+    400142: squareColumn
+    400144: squareColumn.001
+    400146: squareColumn.002
+    400148: squareColumn.003
+    400150: squareColumn.004
+    400152: squareColumn.005
+    400154: squareColumn.006
+    400156: squareColumn.007
+    400158: vault
+    400160: vault.001
+    400162: vault.002
+    400164: vault_pillar_large
+    400166: vault_pillar_large.001
+    400168: vault_pillar_large.002
+    400170: vault_pillar_large.003
+    400172: vault_pillar_large.004
+    400174: vault_pillar_large.005
+    400176: vault_pillar_large.006
+    400178: vault_pillar_large.007
+    400180: vault_small.000
+    400182: vault_small.001
+    400184: vault_small.002
+    400186: vault_small.003
+    400188: vault_small.004
+    400190: vault_small.005
+    2300000: dome pillar.000
+    2300002: dome pillar.001
+    2300004: dome pillar.002
+    2300006: dome pillar.003
+    2300008: dome pillar.005
+    2300010: dome pillar.006
+    2300012: dome pillar.007
+    2300014: dome pillar.008
+    2300016: dome pillar.009
+    2300018: dome pillar.010
+    2300020: dome pillar.011
+    2300022: dome pillar.012
+    2300024: dome pillar.013
+    2300026: dome pillar.014
+    2300028: dome walls
+    2300030: dome walls.001
+    2300032: dome walls.002
+    2300034: dome walls.003
+    2300036: dome walls.004
+    2300038: dome walls.005
+    2300040: dome walls.006
+    2300042: dome walls.007
+    2300044: dome walls.008
+    2300046: dome walls.009
+    2300048: dome walls.010
+    2300050: dome walls.011
+    2300052: dome walls.012
+    2300054: dome walls.013
+    2300056: dome walls.014
+    2300058: dome_floor
+    2300060: dome_vault
+    2300062: endtrance hall ceiling
+    2300064: endtrance wall
+    2300066: entranceHall_rightWall
+    2300068: entranceHall_rightWall.001
+    2300070: groinVault
+    2300072: groinVault.001
+    2300074: groinVault.002
+    2300076: groinVault_smallWall_R.000
+    2300078: groinVault_smallWall_R.001
+    2300080: groinVault_smallWall_R.002
+    2300082: groinVault_smallWall_R.003
+    2300084: groinVault_smallWall_R.004
+    2300086: groinVault_smallWall_R.005
+    2300088: groinVault_smallWall_R.006
+    2300090: groinVault_smallWall_R.007
+    2300092: groinVault_smallWall_R.008
+    2300094: groinVault_smallWall_R.009
+    2300096: groinVault_smallWall_R.010
+    2300098: groinVault_smallWall_R.011
+    2300100: groinVault_smallWall_R.012
+    2300102: groinVault_smallWall_R.013
+    2300104: groinVault_smallWall_R.014
+    2300106: groinVault_smallWall_R.015
+    2300108: groinVault_smallWall_R.016
+    2300110: groinVault_smallWall_R.017
+    2300112: groinVault_windows_R
+    2300114: groinVault_windows_R.001
+    2300116: groinVault_windows_R.002
+    2300118: groinVault_windows_R.003
+    2300120: groinVault_windows_R.004
+    2300122: groinVault_windows_R.005
+    2300124: hallway floor
+    2300126: rose window
+    2300128: squareColumn
+    2300130: squareColumn.001
+    2300132: squareColumn.002
+    2300134: squareColumn.003
+    2300136: squareColumn.004
+    2300138: squareColumn.005
+    2300140: squareColumn.006
+    2300142: squareColumn.007
+    2300144: vault_pillar_large
+    2300146: vault_pillar_large.001
+    2300148: vault_pillar_large.002
+    2300150: vault_pillar_large.003
+    2300152: vault_pillar_large.004
+    2300154: vault_pillar_large.005
+    2300156: vault_pillar_large.006
+    2300158: vault_pillar_large.007
+    2300160: vault_small.000
+    2300162: vault_small.001
+    2300164: vault_small.002
+    2300166: vault_small.003
+    2300168: vault_small.004
+    2300170: vault_small.005
+    3300000: dome pillar.000
+    3300002: dome pillar.001
+    3300004: dome pillar.002
+    3300006: dome pillar.003
+    3300008: dome pillar.005
+    3300010: dome pillar.006
+    3300012: dome pillar.007
+    3300014: dome pillar.008
+    3300016: dome pillar.009
+    3300018: dome pillar.010
+    3300020: dome pillar.011
+    3300022: dome pillar.012
+    3300024: dome pillar.013
+    3300026: dome pillar.014
+    3300028: dome walls
+    3300030: dome walls.001
+    3300032: dome walls.002
+    3300034: dome walls.003
+    3300036: dome walls.004
+    3300038: dome walls.005
+    3300040: dome walls.006
+    3300042: dome walls.007
+    3300044: dome walls.008
+    3300046: dome walls.009
+    3300048: dome walls.010
+    3300050: dome walls.011
+    3300052: dome walls.012
+    3300054: dome walls.013
+    3300056: dome walls.014
+    3300058: dome_floor
+    3300060: dome_vault
+    3300062: endtrance hall ceiling
+    3300064: endtrance wall
+    3300066: entranceHall_rightWall
+    3300068: entranceHall_rightWall.001
+    3300070: groinVault
+    3300072: groinVault.001
+    3300074: groinVault.002
+    3300076: groinVault_smallWall_R.000
+    3300078: groinVault_smallWall_R.001
+    3300080: groinVault_smallWall_R.002
+    3300082: groinVault_smallWall_R.003
+    3300084: groinVault_smallWall_R.004
+    3300086: groinVault_smallWall_R.005
+    3300088: groinVault_smallWall_R.006
+    3300090: groinVault_smallWall_R.007
+    3300092: groinVault_smallWall_R.008
+    3300094: groinVault_smallWall_R.009
+    3300096: groinVault_smallWall_R.010
+    3300098: groinVault_smallWall_R.011
+    3300100: groinVault_smallWall_R.012
+    3300102: groinVault_smallWall_R.013
+    3300104: groinVault_smallWall_R.014
+    3300106: groinVault_smallWall_R.015
+    3300108: groinVault_smallWall_R.016
+    3300110: groinVault_smallWall_R.017
+    3300112: groinVault_windows_R
+    3300114: groinVault_windows_R.001
+    3300116: groinVault_windows_R.002
+    3300118: groinVault_windows_R.003
+    3300120: groinVault_windows_R.004
+    3300122: groinVault_windows_R.005
+    3300124: hallway floor
+    3300126: rose window
+    3300128: squareColumn
+    3300130: squareColumn.001
+    3300132: squareColumn.002
+    3300134: squareColumn.003
+    3300136: squareColumn.004
+    3300138: squareColumn.005
+    3300140: squareColumn.006
+    3300142: squareColumn.007
+    3300144: vault_pillar_large
+    3300146: vault_pillar_large.001
+    3300148: vault_pillar_large.002
+    3300150: vault_pillar_large.003
+    3300152: vault_pillar_large.004
+    3300154: vault_pillar_large.005
+    3300156: vault_pillar_large.006
+    3300158: vault_pillar_large.007
+    3300160: vault_small.000
+    3300162: vault_small.001
+    3300164: vault_small.002
+    3300166: vault_small.003
+    3300168: vault_small.004
+    3300170: vault_small.005
+    4300000: endtrance wall
+    4300002: groinVault_windows_R.005
+    4300004: groinVault_smallWall_R.017
+    4300006: groinVault_smallWall_R.016
+    4300008: groinVault_smallWall_R.015
+    4300010: vault_small.005
+    4300012: vault_small.004
+    4300014: groinVault_smallWall_R.014
+    4300016: vault_pillar_large.007
+    4300018: groinVault_smallWall_R.013
+    4300020: groinVault_smallWall_R.012
+    4300022: vault_pillar_large.006
+    4300024: groinVault.002
+    4300026: groinVault_windows_R.004
+    4300028: groinVault_windows_R.003
+    4300030: groinVault.001
+    4300032: vault_pillar_large.005
+    4300034: groinVault_smallWall_R.010
+    4300036: groinVault_smallWall_R.009
+    4300038: vault_pillar_large.004
+    4300040: groinVault_smallWall_R.008
+    4300042: vault_small.002
+    4300044: vault_small.001
+    4300046: groinVault_smallWall_R.007
+    4300048: groinVault_smallWall_R.006
+    4300050: groinVault_smallWall_R.005
+    4300052: groinVault_windows_R.002
+    4300054: groinVault_windows_R.001
+    4300056: groinVault_smallWall_R.004
+    4300058: groinVault_smallWall_R.003
+    4300060: groinVault_smallWall_R.000
+    4300062: vault_small.000
+    4300064: vault_small.003
+    4300066: groinVault_smallWall_R.011
+    4300068: vault_pillar_large.002
+    4300070: groinVault_smallWall_R.002
+    4300072: groinVault_smallWall_R.001
+    4300074: vault_pillar_large
+    4300076: groinVault
+    4300078: groinVault_windows_R
+    4300080: vault_pillar_large.003
+    4300082: squareColumn.006
+    4300084: squareColumn.007
+    4300086: squareColumn.005
+    4300088: squareColumn.004
+    4300090: squareColumn.003
+    4300092: squareColumn.002
+    4300094: squareColumn.001
+    4300096: squareColumn
+    4300098: dome walls.014
+    4300100: dome walls.013
+    4300102: dome walls.012
+    4300104: dome walls.011
+    4300106: dome walls.010
+    4300108: dome walls.009
+    4300110: dome walls.008
+    4300112: dome walls.007
+    4300114: dome walls.006
+    4300116: dome walls.005
+    4300118: dome walls.004
+    4300120: dome walls.003
+    4300122: dome walls.002
+    4300124: dome walls.001
+    4300126: dome walls
+    4300128: dome pillar.014
+    4300130: dome pillar.013
+    4300132: dome pillar.012
+    4300134: dome pillar.011
+    4300136: dome pillar.010
+    4300138: dome pillar.009
+    4300140: dome pillar.008
+    4300142: dome pillar.007
+    4300144: dome pillar.006
+    4300146: dome pillar.005
+    4300148: dome pillar.003
+    4300150: dome pillar.002
+    4300152: dome pillar.000
+    4300154: dome pillar.001
+    4300156: dome_vault
+    4300158: rose window
+    4300160: dome_floor
+    4300162: vault_pillar_large.001
+    4300164: entranceHall_rightWall.001
+    4300166: entranceHall_rightWall
+    4300168: hallway floor
+    4300170: endtrance hall ceiling
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

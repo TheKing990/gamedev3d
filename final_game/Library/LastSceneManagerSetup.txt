@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/mal_v4.unity
+  isLoaded: 1
+  isActive: 1

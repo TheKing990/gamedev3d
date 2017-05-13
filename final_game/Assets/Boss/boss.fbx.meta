@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: e70820a412d214c48b8d0cca532c2e25
+timeCreated: 1493708531
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: cage
+    100006: cage 1
+    100008: cage bar
+    100010: cage bar.001
+    100012: cage bar.002
+    100014: cage bar.003
+    100016: cage bar.004
+    100018: cage bar.005
+    100020: cage bar.006
+    100022: cage bar.007
+    100024: cage bar.008
+    100026: cage bar.009
+    100028: cage bar.010
+    100030: cage bar.011
+    100032: cage bar.012
+    100034: cage bar.013
+    100036: cage bar.014
+    100038: cage bar.015
+    100040: cate top bottom
+    100042: cate top bottom.001
+    100044: Sword
+    100046: Sword.001
+    100048: Sword.002
+    100050: Sword.003
+    100052: Sword.004
+    100054: Sword.005
+    100056: sword150
+    100058: sword150_end
+    100060: sword210
+    100062: sword210_end
+    100064: sword270
+    100066: sword270_end
+    100068: sword330
+    100070: sword330_end
+    100072: sword60
+    100074: sword60_end
+    100076: sword90
+    100078: sword90_end
+    400000: Armature
+    400002: //RootNode
+    400004: cage
+    400006: cage 1
+    400008: cage bar
+    400010: cage bar.001
+    400012: cage bar.002
+    400014: cage bar.003
+    400016: cage bar.004
+    400018: cage bar.005
+    400020: cage bar.006
+    400022: cage bar.007
+    400024: cage bar.008
+    400026: cage bar.009
+    400028: cage bar.010
+    400030: cage bar.011
+    400032: cage bar.012
+    400034: cage bar.013
+    400036: cage bar.014
+    400038: cage bar.015
+    400040: cate top bottom
+    400042: cate top bottom.001
+    400044: Sword
+    400046: Sword.001
+    400048: Sword.002
+    400050: Sword.003
+    400052: Sword.004
+    400054: Sword.005
+    400056: sword150
+    400058: sword150_end
+    400060: sword210
+    400062: sword210_end
+    400064: sword270
+    400066: sword270_end
+    400068: sword330
+    400070: sword330_end
+    400072: sword60
+    400074: sword60_end
+    400076: sword90
+    400078: sword90_end
+    2300000: cage bar
+    2300002: cage bar.001
+    2300004: cage bar.002
+    2300006: cage bar.003
+    2300008: cage bar.004
+    2300010: cage bar.005
+    2300012: cage bar.006
+    2300014: cage bar.007
+    2300016: cage bar.008
+    2300018: cage bar.009
+    2300020: cage bar.010
+    2300022: cage bar.011
+    2300024: cage bar.012
+    2300026: cage bar.013
+    2300028: cage bar.014
+    2300030: cage bar.015
+    2300032: cate top bottom
+    2300034: cate top bottom.001
+    2300036: Sword
+    2300038: Sword.001
+    2300040: Sword.002
+    2300042: Sword.003
+    2300044: Sword.004
+    2300046: Sword.005
+    3300000: cage bar
+    3300002: cage bar.001
+    3300004: cage bar.002
+    3300006: cage bar.003
+    3300008: cage bar.004
+    3300010: cage bar.005
+    3300012: cage bar.006
+    3300014: cage bar.007
+    3300016: cage bar.008
+    3300018: cage bar.009
+    3300020: cage bar.010
+    3300022: cage bar.011
+    3300024: cage bar.012
+    3300026: cage bar.013
+    3300028: cage bar.014
+    3300030: cage bar.015
+    3300032: cate top bottom
+    3300034: cate top bottom.001
+    3300036: Sword
+    3300038: Sword.001
+    3300040: Sword.002
+    3300042: Sword.003
+    3300044: Sword.004
+    3300046: Sword.005
+    4300000: cate top bottom.001
+    4300002: cage bar.015
+    4300004: cage bar.014
+    4300006: cage bar.013
+    4300008: cage bar.012
+    4300010: cage bar.011
+    4300012: cage bar.010
+    4300014: cage bar.009
+    4300016: cage bar.008
+    4300018: cage bar.007
+    4300020: cage bar.006
+    4300022: cage bar.005
+    4300024: cage bar.004
+    4300026: cage bar.003
+    4300028: cage bar.002
+    4300030: cage bar.001
+    4300032: cage bar
+    4300034: cate top bottom
+    4300036: Sword
+    4300038: Sword.001
+    4300040: Sword.002
+    4300042: Sword.003
+    4300044: Sword.004
+    4300046: Sword.005
+    7400000: Armature|attack01
+    7400002: Armature|attack02
+    7400004: Armature|idle
+    7400006: Armature|move
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|attack01
+      takeName: Armature|attack01
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/cage 1
+        weight: 1
+      - path: Armature/cage 1/cage bar
+        weight: 1
+      - path: Armature/cage 1/cage bar.001
+        weight: 1
+      - path: Armature/cage 1/cage bar.002
+        weight: 1
+      - path: Armature/cage 1/cage bar.003
+        weight: 1
+      - path: Armature/cage 1/cage bar.004
+        weight: 1
+      - path: Armature/cage 1/cage bar.005
+        weight: 1
+      - path: Armature/cage 1/cage bar.006
+        weight: 1
+      - path: Armature/cage 1/cage bar.007
+        weight: 1
+      - path: Armature/cage 1/cage bar.008
+        weight: 1
+      - path: Armature/cage 1/cage bar.009
+        weight: 1
+      - path: Armature/cage 1/cage bar.010
+        weight: 1
+      - path: Armature/cage 1/cage bar.011
+        weight: 1
+      - path: Armature/cage 1/cage bar.012
+        weight: 1
+      - path: Armature/cage 1/cage bar.013
+        weight: 1
+      - path: Armature/cage 1/cage bar.014
+        weight: 1
+      - path: Armature/cage 1/cage bar.015
+        weight: 1
+      - path: Armature/cage 1/cate top bottom
+        weight: 1
+      - path: Armature/cage 1/cate top bottom.001
+        weight: 1
+      - path: Armature/cage 1/sword60
+        weight: 1
+      - path: Armature/cage 1/sword60/Sword.004
+        weight: 1
+      - path: Armature/cage 1/sword60/sword60_end
+        weight: 1
+      - path: Armature/cage 1/sword90
+        weight: 1
+      - path: Armature/cage 1/sword90/Sword.003
+        weight: 1
+      - path: Armature/cage 1/sword90/sword90_end
+        weight: 1
+      - path: Armature/cage 1/sword150
+        weight: 1
+      - path: Armature/cage 1/sword150/Sword.002
+        weight: 1
+      - path: Armature/cage 1/sword150/sword150_end
+        weight: 1
+      - path: Armature/cage 1/sword210
+        weight: 1
+      - path: Armature/cage 1/sword210/Sword.001
+        weight: 1
+      - path: Armature/cage 1/sword210/sword210_end
+        weight: 1
+      - path: Armature/cage 1/sword270
+        weight: 1
+      - path: Armature/cage 1/sword270/Sword
+        weight: 1
+      - path: Armature/cage 1/sword270/sword270_end
+        weight: 1
+      - path: Armature/cage 1/sword330
+        weight: 1
+      - path: Armature/cage 1/sword330/Sword.005
+        weight: 1
+      - path: Armature/cage 1/sword330/sword330_end
+        weight: 1
+      - path: cage
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|attack02
+      takeName: Armature|attack02
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/cage 1
+        weight: 1
+      - path: Armature/cage 1/cage bar
+        weight: 1
+      - path: Armature/cage 1/cage bar.001
+        weight: 1
+      - path: Armature/cage 1/cage bar.002
+        weight: 1
+      - path: Armature/cage 1/cage bar.003
+        weight: 1
+      - path: Armature/cage 1/cage bar.004
+        weight: 1
+      - path: Armature/cage 1/cage bar.005
+        weight: 1
+      - path: Armature/cage 1/cage bar.006
+        weight: 1
+      - path: Armature/cage 1/cage bar.007
+        weight: 1
+      - path: Armature/cage 1/cage bar.008
+        weight: 1
+      - path: Armature/cage 1/cage bar.009
+        weight: 1
+      - path: Armature/cage 1/cage bar.010
+        weight: 1
+      - path: Armature/cage 1/cage bar.011
+        weight: 1
+      - path: Armature/cage 1/cage bar.012
+        weight: 1
+      - path: Armature/cage 1/cage bar.013
+        weight: 1
+      - path: Armature/cage 1/cage bar.014
+        weight: 1
+      - path: Armature/cage 1/cage bar.015
+        weight: 1
+      - path: Armature/cage 1/cate top bottom
+        weight: 1
+      - path: Armature/cage 1/cate top bottom.001
+        weight: 1
+      - path: Armature/cage 1/sword60
+        weight: 1
+      - path: Armature/cage 1/sword60/Sword.004
+        weight: 1
+      - path: Armature/cage 1/sword60/sword60_end
+        weight: 1
+      - path: Armature/cage 1/sword90
+        weight: 1
+      - path: Armature/cage 1/sword90/Sword.003
+        weight: 1
+      - path: Armature/cage 1/sword90/sword90_end
+        weight: 1
+      - path: Armature/cage 1/sword150
+        weight: 1
+      - path: Armature/cage 1/sword150/Sword.002
+        weight: 1
+      - path: Armature/cage 1/sword150/sword150_end
+        weight: 1
+      - path: Armature/cage 1/sword210
+        weight: 1
+      - path: Armature/cage 1/sword210/Sword.001
+        weight: 1
+      - path: Armature/cage 1/sword210/sword210_end
+        weight: 1
+      - path: Armature/cage 1/sword270
+        weight: 1
+      - path: Armature/cage 1/sword270/Sword
+        weight: 1
+      - path: Armature/cage 1/sword270/sword270_end
+        weight: 1
+      - path: Armature/cage 1/sword330
+        weight: 1
+      - path: Armature/cage 1/sword330/Sword.005
+        weight: 1
+      - path: Armature/cage 1/sword330/sword330_end
+        weight: 1
+      - path: cage
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|idle
+      takeName: Armature|idle
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/cage 1
+        weight: 1
+      - path: Armature/cage 1/cage bar
+        weight: 1
+      - path: Armature/cage 1/cage bar.001
+        weight: 1
+      - path: Armature/cage 1/cage bar.002
+        weight: 1
+      - path: Armature/cage 1/cage bar.003
+        weight: 1
+      - path: Armature/cage 1/cage bar.004
+        weight: 1
+      - path: Armature/cage 1/cage bar.005
+        weight: 1
+      - path: Armature/cage 1/cage bar.006
+        weight: 1
+      - path: Armature/cage 1/cage bar.007
+        weight: 1
+      - path: Armature/cage 1/cage bar.008
+        weight: 1
+      - path: Armature/cage 1/cage bar.009
+        weight: 1
+      - path: Armature/cage 1/cage bar.010
+        weight: 1
+      - path: Armature/cage 1/cage bar.011
+        weight: 1
+      - path: Armature/cage 1/cage bar.012
+        weight: 1
+      - path: Armature/cage 1/cage bar.013
+        weight: 1
+      - path: Armature/cage 1/cage bar.014
+        weight: 1
+      - path: Armature/cage 1/cage bar.015
+        weight: 1
+      - path: Armature/cage 1/cate top bottom
+        weight: 1
+      - path: Armature/cage 1/cate top bottom.001
+        weight: 1
+      - path: Armature/cage 1/sword60
+        weight: 1
+      - path: Armature/cage 1/sword60/Sword.004
+        weight: 1
+      - path: Armature/cage 1/sword60/sword60_end
+        weight: 1
+      - path: Armature/cage 1/sword90
+        weight: 1
+      - path: Armature/cage 1/sword90/Sword.003
+        weight: 1
+      - path: Armature/cage 1/sword90/sword90_end
+        weight: 1
+      - path: Armature/cage 1/sword150
+        weight: 1
+      - path: Armature/cage 1/sword150/Sword.002
+        weight: 1
+      - path: Armature/cage 1/sword150/sword150_end
+        weight: 1
+      - path: Armature/cage 1/sword210
+        weight: 1
+      - path: Armature/cage 1/sword210/Sword.001
+        weight: 1
+      - path: Armature/cage 1/sword210/sword210_end
+        weight: 1
+      - path: Armature/cage 1/sword270
+        weight: 1
+      - path: Armature/cage 1/sword270/Sword
+        weight: 1
+      - path: Armature/cage 1/sword270/sword270_end
+        weight: 1
+      - path: Armature/cage 1/sword330
+        weight: 1
+      - path: Armature/cage 1/sword330/Sword.005
+        weight: 1
+      - path: Armature/cage 1/sword330/sword330_end
+        weight: 1
+      - path: cage
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|move
+      takeName: Armature|move
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/cage 1
+        weight: 1
+      - path: Armature/cage 1/cage bar
+        weight: 1
+      - path: Armature/cage 1/cage bar.001
+        weight: 1
+      - path: Armature/cage 1/cage bar.002
+        weight: 1
+      - path: Armature/cage 1/cage bar.003
+        weight: 1
+      - path: Armature/cage 1/cage bar.004
+        weight: 1
+      - path: Armature/cage 1/cage bar.005
+        weight: 1
+      - path: Armature/cage 1/cage bar.006
+        weight: 1
+      - path: Armature/cage 1/cage bar.007
+        weight: 1
+      - path: Armature/cage 1/cage bar.008
+        weight: 1
+      - path: Armature/cage 1/cage bar.009
+        weight: 1
+      - path: Armature/cage 1/cage bar.010
+        weight: 1
+      - path: Armature/cage 1/cage bar.011
+        weight: 1
+      - path: Armature/cage 1/cage bar.012
+        weight: 1
+      - path: Armature/cage 1/cage bar.013
+        weight: 1
+      - path: Armature/cage 1/cage bar.014
+        weight: 1
+      - path: Armature/cage 1/cage bar.015
+        weight: 1
+      - path: Armature/cage 1/cate top bottom
+        weight: 1
+      - path: Armature/cage 1/cate top bottom.001
+        weight: 1
+      - path: Armature/cage 1/sword60
+        weight: 1
+      - path: Armature/cage 1/sword60/Sword.004
+        weight: 1
+      - path: Armature/cage 1/sword60/sword60_end
+        weight: 1
+      - path: Armature/cage 1/sword90
+        weight: 1
+      - path: Armature/cage 1/sword90/Sword.003
+        weight: 1
+      - path: Armature/cage 1/sword90/sword90_end
+        weight: 1
+      - path: Armature/cage 1/sword150
+        weight: 1
+      - path: Armature/cage 1/sword150/Sword.002
+        weight: 1
+      - path: Armature/cage 1/sword150/sword150_end
+        weight: 1
+      - path: Armature/cage 1/sword210
+        weight: 1
+      - path: Armature/cage 1/sword210/Sword.001
+        weight: 1
+      - path: Armature/cage 1/sword210/sword210_end
+        weight: 1
+      - path: Armature/cage 1/sword270
+        weight: 1
+      - path: Armature/cage 1/sword270/Sword
+        weight: 1
+      - path: Armature/cage 1/sword270/sword270_end
+        weight: 1
+      - path: Armature/cage 1/sword330
+        weight: 1
+      - path: Armature/cage 1/sword330/Sword.005
+        weight: 1
+      - path: Armature/cage 1/sword330/sword330_end
+        weight: 1
+      - path: cage
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
